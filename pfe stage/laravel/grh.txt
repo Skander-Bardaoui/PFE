@@ -1,0 +1,16 @@
+tableau -> livse 
+employee id 
+livse date 
+livse diration
+priorite
+valide/non valide -> statu
+
+conge
+id_conge
+date_conge
+dure_conge 
+motif_conge
+priorite_conge
+id employee
+valide conge
+etat_demande
